@@ -11,7 +11,7 @@
 <p>
 
 
-- 🔭 I’m currently working Mechatronics Engineer at GoSL.
+- 🔭 I’m currently working as a Mechatronics Engineer at GoSL.
 - 🌱 I’m currently learning about Zephyr RTOS.
 - 🤔 I’m looking for a position in embedded software development.
 - 💬 Ask me just about anything. I am happy to help.
