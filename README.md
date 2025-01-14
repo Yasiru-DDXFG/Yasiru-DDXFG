@@ -11,12 +11,11 @@
 <p>
 
 
-- 🔭 I’m currently working as a Mechatronics Engineer at GoSL.
+- 🔭 I’m currently working as an Embedded Software Engineer.
 - 🌱 I’m currently learning about Zephyr RTOS.
 - 🤔 I’m looking for a position in embedded software development.
 - 💬 Ask me just about anything. I am happy to help.
-- 📫 How to reach me: YasiruLakmal@proton.me
-- ⚡ Fun fact: A jiffy is an actual unit of time. It's 1/100th of a second.
+- 📫 How to reach me: YasiruLakmal@proton.me.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
